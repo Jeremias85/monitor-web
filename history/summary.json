@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/legislacion.concejoushuaia.gob.ar.ico",
     "slug": "app-legislativa-concejo-deliberante-de-ushuaia",
     "status": "down",
-    "uptime": "0.38%",
-    "uptimeDay": "0.38%",
-    "uptimeWeek": "0.38%",
-    "uptimeMonth": "0.38%",
-    "uptimeYear": "0.38%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-29": 6
+      "2023-07-29": 427
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/administracion.concejoushuaia.gob.ar.ico",
     "slug": "app-id-m-concejo-deliberante-de-ushuaia",
     "status": "down",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-29": 6
+      "2023-07-29": 427
     }
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://evirasoro.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/evirasoro.edu.ar.ico",
     "slug": "portal-institucional-escuela-tecnica-valentin-virasoro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
