@@ -10,9 +10,9 @@ sites:
   - name: CMS Concejo Deliberante de Ushuaia
     url: https://concejoushuaia.directus.app
   - name: App legislativa Concejo Deliberante de Ushuaia
-    url: https://legislacion.concejoushuaia.gob.ar/
+    url: https://legislacion.concejoushuaia.gob.ar
   - name: App IdM Concejo Deliberante de Ushuaia
-    url: https://administracion.concejoushuaia.gob.ar/
+    url: https://administracion.concejoushuaia.gob.ar
   - name: App administrativa Concejo Deliberante de Ushuaia
     url: https://concejoushuaia.ar
   - name: Portal institucional Escuela Técnica Valentín Virasoro
