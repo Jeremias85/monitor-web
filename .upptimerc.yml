@@ -1,22 +1,30 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Jeremias85 # Your GitHub organization or username, where this repository lives
+repo: monitor-web # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: USW Gestión
+    url: https://uswgestion.com
+  - name: Portal institucional Concejo Deliberante de Ushuaia
+    url: https://concejoushuaia.gob.ar
+  - name: CMS Concejo Deliberante de Ushuaia
+    url: https://concejoushuaia.directus.app
+  - name: App legislativa Concejo Deliberante de Ushuaia
+    url: https://legislacion.concejoushuaia.gob.ar
+  - name: App IdM Concejo Deliberante de Ushuaia
+    url: https://administracion.concejoushuaia.gob.ar
+  - name: App administrativa Concejo Deliberante de Ushuaia
+    url: https://concejoushuaia.ar
+  - name: Portal institucional Escuela Técnica Valentín Virasoro
+    url: https://evirasoro.edu.ar
+  - name: CMS Escuela Técnica Valentín Virasoro
+    url: https://cms.evirasoro.edu.ar
+  - name: Página web Hostería Valle Frío Ushuaia
+    url: https://vallefrioushuaia.com/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /monitor-web # where "repo" is your repository name
+  name: Status Website
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
