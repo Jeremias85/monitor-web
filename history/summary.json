@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/legislacion.concejoushuaia.gob.ar.ico",
     "slug": "app-legislativa-concejo-deliberante-de-ushuaia",
     "status": "up",
-    "uptime": "83.77%",
+    "uptime": "84.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.77%",
-    "uptimeMonth": "83.77%",
-    "uptimeYear": "83.77%",
+    "uptimeWeek": "84.22%",
+    "uptimeMonth": "84.22%",
+    "uptimeYear": "84.22%",
     "time": 2052,
     "timeDay": 2117,
     "timeWeek": 2052,
@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/administracion.concejoushuaia.gob.ar.ico",
     "slug": "app-id-m-concejo-deliberante-de-ushuaia",
     "status": "up",
-    "uptime": "83.77%",
+    "uptime": "84.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.77%",
-    "uptimeMonth": "83.77%",
-    "uptimeYear": "83.77%",
+    "uptimeWeek": "84.22%",
+    "uptimeMonth": "84.22%",
+    "uptimeYear": "84.22%",
     "time": 176,
     "timeDay": 175,
     "timeWeek": 176,
@@ -153,28 +153,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/est23.evirasoro.edu.ar.ico",
     "slug": "micrositio-estudiantina-goya-2023",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 491,
     "timeDay": 515,
     "timeWeek": 491,
     "timeMonth": 491,
     "timeYear": 491,
-    "dailyMinutesDown": {
-      "2023-08-03": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Página web Hostería Valle Frío Ushuaia",
     "url": "https://vallefrioushuaia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vallefrioushuaia.com.ico",
     "slug": "pagina-web-hosteria-valle-frio-ushuaia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,6 +181,8 @@
     "timeWeek": 924,
     "timeMonth": 924,
     "timeYear": 924,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 0
+    }
   }
 ]
