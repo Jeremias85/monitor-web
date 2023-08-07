@@ -22,6 +22,8 @@ sites:
     url: https://evirasoro.edu.ar
   - name: CMS Escuela Técnica Valentín Virasoro
     url: https://cms.evirasoro.edu.ar
+  - name: Moodle Escuela Técnica Valentín Virasoro
+    url: https://moodle.evirasoro.edu.ar
   - name: Micrositio Estudiantina Goya 2023
     url: https://est23.evirasoro.edu.ar   
   - name: Página web Hostería Valle Frío Ushuaia
