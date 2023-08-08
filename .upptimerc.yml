@@ -28,7 +28,9 @@ sites:
     url: https://est23.evirasoro.edu.ar   
   - name: Página web Hostería Valle Frío Ushuaia
     url: https://vallefrioushuaia.com/
-
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
+    
 status-website:
   baseUrl: /monitor-web # where "repo" is your repository name
   name: Status Website
