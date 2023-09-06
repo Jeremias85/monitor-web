@@ -1,7 +1,7 @@
 url: https://concejoushuaia.directus.app
-status: up
-code: 200
-responseTime: 145
-lastUpdated: 2023-09-06T23:00:56.019Z
+status: down
+code: 502
+responseTime: 356
+lastUpdated: 2023-09-06T23:18:08.490Z
 startTime: 2023-07-29T00:58:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
