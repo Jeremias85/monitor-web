@@ -31,10 +31,10 @@ sites:
   - name: CMS Municipalidad Santa Lucía Corrientes  
     url: https://cms.santaluciacorrientes.ar
   - name: Portal de prueba municipalidad Santa Lucía Corrientes
-    url: https://santaluciacorrientes.ar
+    url: http://santaluciacorrientes.ar
     __dangerous__insecure: true
   - name: Página web Canal Web
-    url: https://canalweb.com.ar
+    url: http://canalweb.com.ar
     __dangerous__insecure: true
     
 status-website:
