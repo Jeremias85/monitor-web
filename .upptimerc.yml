@@ -28,6 +28,14 @@ sites:
     url: https://estudiantina.evirasoro.edu.ar   
   - name: Página web Hostería Valle Frío Ushuaia
     url: https://vallefrioushuaia.com/
+  - name: CMS Municipalidad Santa Lucía Corrientes  
+    url: https://cms.santaluciacorrientes.ar
+  - name: Portal de prueba municipalidad Santa Lucía Corrientes
+    url: https://santaluciacorrientes.ar
+    __dangerous__insecure: true
+  - name: Página web Canal Web
+    url: https://canalweb.com.ar
+    __dangerous__insecure: true
     
 status-website:
   baseUrl: /monitor-web # where "repo" is your repository name
