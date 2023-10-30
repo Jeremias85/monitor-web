@@ -7,7 +7,7 @@ sites:
     url: https://uswgestion.com
   - name: Portal institucional Concejo Deliberante de Ushuaia
     url: https://concejoushuaia.gob.ar
-    #__dangerous__insecure: true
+    ##__dangerous__insecure: true
   - name: CMS Concejo Deliberante de Ushuaia
     url: https://concejoushuaia.directus.app
   - name: App legislativa Concejo Deliberante de Ushuaia
