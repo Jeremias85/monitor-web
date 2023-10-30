@@ -12,10 +12,10 @@ sites:
     url: https://concejoushuaia.directus.app
   - name: App legislativa Concejo Deliberante de Ushuaia
     url: https://legislacion.concejoushuaia.gob.ar
-    #__dangerous__insecure: true
+    __dangerous__insecure: true
   - name: App IdM Concejo Deliberante de Ushuaia
     url: https://administracion.concejoushuaia.gob.ar
-    #__dangerous__insecure: true
+    __dangerous__insecure: true
   - name: App administrativa Concejo Deliberante de Ushuaia
     url: https://concejoushuaia.ar
   - name: Portal institucional Escuela Técnica Valentín Virasoro
