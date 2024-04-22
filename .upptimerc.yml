@@ -10,7 +10,7 @@ sites:
   - name: IAM Concejo Deliberante de Ushuaia
     url: https://administracion.concejoushuaia.gob.ar
   - name: App administrativa/municipal Concejo Deliberante de Ushuaia
-    url: https://muinicipal.concejoushuaia.gob.ar
+    url: https://municipal.concejoushuaia.gob.ar
   - name: App administrativa Concejo Deliberante de Ushuaia
     url: https://concejoushuaia.ar
   - name: Portal institucional Escuela Técnica Valentín Virasoro
