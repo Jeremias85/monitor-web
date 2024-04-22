@@ -5,8 +5,12 @@ repo: monitor-web # The name of this repository
 sites:
   - name: USW Gestión
     url: https://uswgestion.com
-  - name: CMS Concejo Deliberante de Ushuaia
-    url: https://concejoushuaia.directus.app
+  # - name: CMS Concejo Deliberante de Ushuaia
+  #   url: https://concejoushuaia.directus.app
+  - name: IAM Concejo Deliberante de Ushuaia
+    url: https://administracion.concejoushuaia.gob.ar
+  - name: App administrativa/municipal Concejo Deliberante de Ushuaia
+    url: https://muinicipal.concejoushuaia.gob.ar
   - name: App administrativa Concejo Deliberante de Ushuaia
     url: https://concejoushuaia.ar
   - name: Portal institucional Escuela Técnica Valentín Virasoro
