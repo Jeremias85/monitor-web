@@ -5,6 +5,7 @@ repo: monitor-web # The name of this repository
 sites:
   - name: USW Gestión
     url: https://uswgestion.com
+    __dangerous__insecure: true
   - name: App administrativa Concejo Deliberante de Ushuaia
     url: http://waia.uswgestion.com
     __dangerous__insecure: true
