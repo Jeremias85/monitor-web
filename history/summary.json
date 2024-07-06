@@ -8,7 +8,7 @@
     "uptime": "92.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.64%",
+    "uptimeMonth": "45.74%",
     "uptimeYear": "92.71%",
     "time": 1232,
     "timeDay": 1386,
@@ -79,19 +79,19 @@
     "url": "http://educacion.uswgestion.com",
     "icon": "https://icons.duckduckgo.com/ip3/educacion.uswgestion.com.ico",
     "slug": "moodle-usw-gestion",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 2628,
     "timeDay": 6925,
     "timeWeek": 3600,
     "timeMonth": 2628,
     "timeYear": 2628,
     "dailyMinutesDown": {
-      "2024-07-06": 48
+      "2024-07-06": 36
     }
   },
   {
