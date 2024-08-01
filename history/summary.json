@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/uswgestion.com.ico",
     "slug": "usw-gestion",
     "status": "up",
-    "uptime": "93.21%",
+    "uptime": "93.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -99,10 +99,10 @@
     "url": "http://concejodeliberante.ar",
     "icon": "https://icons.duckduckgo.com/ip3/concejodeliberante.ar.ico",
     "slug": "concejo-deliberante-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1861,
@@ -110,16 +110,18 @@
     "timeWeek": 1715,
     "timeMonth": 1805,
     "timeYear": 1861,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-01": 1
+    }
   },
   {
     "name": "Ventanilla legislativa Concejo Deliberante AR",
     "url": "https://legislacion.concejodeliberante.ar",
     "icon": "https://icons.duckduckgo.com/ip3/legislacion.concejodeliberante.ar.ico",
     "slug": "ventanilla-legislativa-concejo-deliberante-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,7 +130,9 @@
     "timeWeek": 935,
     "timeMonth": 1222,
     "timeYear": 1172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-01": 0
+    }
   },
   {
     "name": "Portal institucional Escuela Técnica Valentín Virasoro",
@@ -145,7 +149,7 @@
     "timeDay": 1075,
     "timeWeek": 1043,
     "timeMonth": 1255,
-    "timeYear": 1250,
+    "timeYear": 1251,
     "dailyMinutesDown": {}
   },
   {
@@ -189,7 +193,7 @@
     "timeDay": 1273,
     "timeWeek": 1092,
     "timeMonth": 1225,
-    "timeYear": 1232,
+    "timeYear": 1234,
     "dailyMinutesDown": {
       "2024-07-29": 16,
       "2024-06-02": 31,
