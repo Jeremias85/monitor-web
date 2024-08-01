@@ -99,19 +99,19 @@
     "url": "http://concejodeliberante.ar",
     "icon": "https://icons.duckduckgo.com/ip3/concejodeliberante.ar.ico",
     "slug": "concejo-deliberante-ar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1861,
-    "timeDay": 1822,
-    "timeWeek": 1715,
-    "timeMonth": 1805,
-    "timeYear": 1861,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.89%",
+    "time": 1862,
+    "timeDay": 1852,
+    "timeWeek": 1736,
+    "timeMonth": 1808,
+    "timeYear": 1862,
     "dailyMinutesDown": {
-      "2024-08-01": 1
+      "2024-08-01": 63
     }
   },
   {
@@ -119,19 +119,19 @@
     "url": "https://legislacion.concejodeliberante.ar",
     "icon": "https://icons.duckduckgo.com/ip3/legislacion.concejodeliberante.ar.ico",
     "slug": "ventanilla-legislativa-concejo-deliberante-ar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1172,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.89%",
+    "time": 1168,
     "timeDay": 1028,
-    "timeWeek": 935,
-    "timeMonth": 1222,
-    "timeYear": 1172,
+    "timeWeek": 946,
+    "timeMonth": 1216,
+    "timeYear": 1168,
     "dailyMinutesDown": {
-      "2024-08-01": 0
+      "2024-08-01": 63
     }
   },
   {
