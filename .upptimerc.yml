@@ -5,28 +5,17 @@ repo: monitor-web # The name of this repository
 sites:
   - name: USW Gestión
     url: https://uswgestion.com
-    __dangerous__insecure: true
   - name: App administrativa Concejo Deliberante de Ushuaia
     url: http://waia.uswgestion.com
     __dangerous__insecure: true
   - name: Moodle USW Gestión
     url: http://educacion.uswgestion.com
   - name: Concejo Deliberante AR
-    url: http://concejodeliberante.ar
-    __dangerous__insecure: true
+    url: https://concejodeliberante.ar
   - name: Ventanilla legislativa Concejo Deliberante AR
-    url: https://legislacion.concejodeliberante.ar
-  - name: Portal institucional Escuela Técnica Valentín Virasoro
-    url: https://evirasoro.edu.ar
-  - name: CMS Escuela Técnica Valentín Virasoro
-    url: https://cms.evirasoro.edu.ar
-  - name: Micrositio Estudiantina Goya 2023
-    url: https://estudiantina.evirasoro.edu.ar   
+    url: https://legislacion.concejodeliberante.ar  
   - name: Página web Hostería Valle Frío Ushuaia
     url: https://vallefrioushuaia.com/
-  - name: Página web Canal Web
-    url: http://canalweb.com.ar
-    __dangerous__insecure: true
     
 status-website:
   baseUrl: /monitor-web # where "repo" is your repository name
