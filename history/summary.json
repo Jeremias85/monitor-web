@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/uswgestion.com.ico",
     "slug": "usw-gestion",
     "status": "up",
-    "uptime": "94.65%",
+    "uptime": "94.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "93.11%",
     "time": 1231,
-    "timeDay": 1069,
-    "timeWeek": 1245,
-    "timeMonth": 1349,
+    "timeDay": 953,
+    "timeWeek": 1211,
+    "timeMonth": 1346,
     "timeYear": 1227,
     "dailyMinutesDown": {
       "2024-10-21": 20,
@@ -49,8 +49,7 @@
       "2024-05-30": 1440,
       "2024-05-29": 1415,
       "2024-05-06": 86,
-      "2023-11-24": 24,
-      "2023-11-14": 28
+      "2023-11-24": 24
     }
   },
   {
@@ -65,10 +64,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 961,
-    "timeDay": 730,
+    "timeDay": 684,
     "timeWeek": 742,
-    "timeMonth": 829,
-    "timeYear": 938,
+    "timeMonth": 810,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2024-10-08": 31,
       "2024-10-05": 32,
@@ -79,8 +78,7 @@
       "2024-06-02": 17,
       "2024-05-06": 51,
       "2024-04-18": 159,
-      "2023-11-24": 23,
-      "2023-11-14": 23
+      "2023-11-24": 23
     }
   },
   {
@@ -94,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.05%",
     "uptimeYear": "98.99%",
-    "time": 1592,
-    "timeDay": 1309,
-    "timeWeek": 1399,
+    "time": 1590,
+    "timeDay": 1336,
+    "timeWeek": 1390,
     "timeMonth": 1352,
-    "timeYear": 1592,
+    "timeYear": 1590,
     "dailyMinutesDown": {
       "2024-10-28": 20,
       "2024-10-17": 937,
@@ -123,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1779,
-    "timeDay": 1250,
-    "timeWeek": 1306,
-    "timeMonth": 1439,
-    "timeYear": 1779,
+    "time": 1775,
+    "timeDay": 1302,
+    "timeWeek": 1317,
+    "timeMonth": 1445,
+    "timeYear": 1775,
     "dailyMinutesDown": {
       "2024-10-08": 29,
       "2024-09-01": 23,
@@ -142,16 +140,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/legislacion.concejodeliberante.ar.ico",
     "slug": "ventanilla-legislativa-concejo-deliberante-ar",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.84%",
-    "time": 1054,
-    "timeDay": 946,
-    "timeWeek": 991,
-    "timeMonth": 976,
-    "timeYear": 1054,
+    "uptimeYear": "99.85%",
+    "time": 1053,
+    "timeDay": 1007,
+    "timeWeek": 1006,
+    "timeMonth": 979,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2024-10-28": 19,
       "2024-10-08": 18,
@@ -174,9 +172,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.62%",
     "time": 1099,
-    "timeDay": 1345,
-    "timeWeek": 1290,
-    "timeMonth": 1236,
+    "timeDay": 1109,
+    "timeWeek": 1277,
+    "timeMonth": 1234,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2024-10-31": 16,
@@ -195,8 +193,7 @@
       "2024-01-31": 23,
       "2024-01-30": 18,
       "2023-12-16": 27,
-      "2023-11-28": 16,
-      "2023-11-14": 16
+      "2023-11-28": 16
     }
   }
 ]
