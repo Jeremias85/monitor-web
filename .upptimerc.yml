@@ -10,10 +10,6 @@ sites:
     __dangerous__insecure: true
   - name: Moodle USW Gestión
     url: http://educacion.uswgestion.com
-  - name: Concejo Deliberante AR
-    url: https://concejodeliberante.ar
-  - name: Ventanilla legislativa Concejo Deliberante AR
-    url: https://legislacion.concejodeliberante.ar  
   - name: Página web Hostería Valle Frío Ushuaia
     url: https://vallefrioushuaia.com/
     
