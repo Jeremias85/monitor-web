@@ -8,8 +8,6 @@ sites:
   - name: App administrativa Concejo Deliberante de Ushuaia
     url: http://waia.uswgestion.com
     __dangerous__insecure: true
-  - name: Moodle USW Gestión
-    url: http://educacion.uswgestion.com
   - name: Página web Hostería Valle Frío Ushuaia
     url: https://vallefrioushuaia.com/
     
