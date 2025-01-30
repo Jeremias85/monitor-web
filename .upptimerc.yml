@@ -6,7 +6,7 @@ sites:
   - name: USW Gestión
     url: https://uswgestion.com
   - name: App administrativa Concejo Deliberante de Ushuaia
-    url: http://waia.uswgestion.com
+    url: https://waia.uswgestion.com
     __dangerous__insecure: true
   - name: Página web Hostería Valle Frío Ushuaia
     url: https://vallefrioushuaia.com/
