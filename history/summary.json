@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/uswgestion.com.ico",
     "slug": "usw-gestion",
     "status": "up",
-    "uptime": "95.82%",
+    "uptime": "95.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.12%",
     "time": 1219,
-    "timeDay": 1414,
-    "timeWeek": 1176,
-    "timeMonth": 1204,
+    "timeDay": 1161,
+    "timeWeek": 1199,
+    "timeMonth": 1203,
     "timeYear": 1217,
     "dailyMinutesDown": {
       "2024-10-21": 20,
@@ -62,11 +62,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 908,
-    "timeDay": 1110,
-    "timeWeek": 951,
-    "timeMonth": 981,
-    "timeYear": 869,
+    "time": 909,
+    "timeDay": 1198,
+    "timeWeek": 1013,
+    "timeMonth": 989,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2024-10-08": 31,
       "2024-10-05": 32,
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
     "time": 1551,
-    "timeDay": 1386,
-    "timeWeek": 1294,
-    "timeMonth": 1213,
-    "timeYear": 1723,
+    "timeDay": 1452,
+    "timeWeek": 1317,
+    "timeMonth": 1227,
+    "timeYear": 1724,
     "dailyMinutesDown": {
       "2025-02-21": 81,
       "2025-02-20": 324,
@@ -113,8 +113,7 @@
       "2024-05-06": 81,
       "2024-04-12": 1289,
       "2024-04-11": 149,
-      "2024-03-30": 115,
-      "2024-03-25": 26
+      "2024-03-30": 115
     }
   }
 ]
