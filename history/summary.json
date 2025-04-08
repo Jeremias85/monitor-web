@@ -84,7 +84,7 @@
     "url": "https://vallefrioushuaia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vallefrioushuaia.com.ico",
     "slug": "pagina-web-hosteria-valle-frio-ushuaia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "97.78%",
     "uptimeWeek": "99.68%",
@@ -96,6 +96,7 @@
     "timeMonth": 1186,
     "timeYear": 1711,
     "dailyMinutesDown": {
+      "2025-04-08": 0,
       "2025-04-07": 32,
       "2025-02-21": 81,
       "2025-02-20": 324,
